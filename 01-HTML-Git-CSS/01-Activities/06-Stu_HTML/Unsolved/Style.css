@@ -1,0 +1,27 @@
+.section {
+    background-color: aquamarine;
+}
+
+.paragraph {
+    font-size: 2em;
+    font-family: cursive;
+}
+
+.list {
+    font-size: 1.5em;
+}
+
+#email {
+    color: darksalmon;
+    background-color: azure;
+}
+
+#github {
+    color: dimgray;
+    background-color: crimson;
+}
+
+#portfolio {
+    color: gold;
+    background-color: darkgreen;
+}
